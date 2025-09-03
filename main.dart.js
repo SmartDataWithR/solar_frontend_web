@@ -92145,7 +92145,7 @@ $2(a,b){var s=null,r=A.aIh(),q=A.a58().$5$color$fontSize$fontWeight$height$lette
 q=A.arX(A.il(),A.vj(),s,r,q,s,s,s,s,s,s,s,s,s,s)
 r=A.dp(0)
 q=A.xw(A.aLR(s,s,B.j,s,0,s,s,s,s,s,s,s,s,s,A.aIh().BC(B.k,$.bZ().fD(100)),s,s),s,new A.q4(s,B.k,s,s,0,s,new A.db(r,B.t)),new A.qa(B.aa,B.b7,B.k,B.o6,B.nD,s,s,s,s,B.b7,B.k,B.Gd,B.nD,s,s,s,s,s,s,s,s,s,s,s,s,B.nL,B.k,B.nH,B.FO,B.k,B.aZ,s,s,s,B.k,B.nE,B.nE,B.Fd,B.o9,s,s,s,s,s,s,s,s,s,B.k,B.m),q,!0)
-return new A.rc(A.aj(["/",new A.ajF(),"/agb",new A.ajG()],t.N,t.Ab),new A.ajH(),"Solar Dashboard",q,!1,s)},
+return new A.rc(A.aj(["/",new A.ajF(),"/agb",new A.ajG()],t.N,t.Ab),new A.ajH(),"Solar Sparfuchs",q,!1,s)},
 $S:533}
 A.ajH.prototype={
 $2(a,b){var s=A.bB(a,null,t.w).w.Zu(B.R)
