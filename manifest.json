@@ -1,11 +1,11 @@
 {
-    "name": "frontend",
-    "short_name": "frontend",
+    "name": "Solar Sparfuchs",
+    "short_name": "SolarSparfuchs",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#0175C2",
-    "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "background_color": "#1E3B5E",
+    "theme_color": "#1E3B5E",
+    "description": "Photovoltaik Rechner und Produktempfehlungen für deine Solaranlage.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
